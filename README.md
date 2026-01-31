@@ -40,7 +40,7 @@ pip install tweepy leia pandas
 
 3. Configure suas credenciais da API do Twitter no notebook.
 
-**Nota**: As chaves de acesso à API foram omitidas por questões de segurança. Você deve obter suas próprias credenciais no Twitter Developer Portal.
+**Nota**: As chaves de acesso à API foram omitidas por questões de segurança. Você deve obter suas próprias credenciais no [Twitter Developer Portal](https://developer.x.com/en).
 
 ## 📺 Demonstração
 
